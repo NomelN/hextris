@@ -1,3 +1,6 @@
+Play this game in: https://nomeln.github.io/hextris/
+
+
 Hextris
 ==========
 
